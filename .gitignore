@@ -1,0 +1,5 @@
+mdc/csharp/bin
+mdc/csharp/obj
+mdc/python/.vscode
+.vscode/launch.json
+.vscode/tasks.json
