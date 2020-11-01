@@ -1,16 +1,8 @@
 # Estudos de Matemática Básica Utilizando Linguagens de Programação
 
 
-![GitHub language count](https://img.shields.io/github/languages/count/GustavoAdolfo/matematica?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/GustavoAdolfo/matematica?style=plastic)
-![GitHub top language](https://img.shields.io/github/repo-size/GustavoAdolfo/matematica?style=plastic)
-![GitHub top language](https://img.shields.io/github/last-commit/GustavoAdolfo/matematica?style=plastic)
-![GitHub top language](https://img.shields.io/badge/made%20by-GustavoAdolfo-%20?style=plastic)
-![GitHub top language](https://img.shields.io/github/license/GustavoAdolfo/matematica?style=plastic)
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub issues](https://img.shields.io/github/issues/GustavoAdolfo/matematica)](https://github.com/GustavoAdolfo/matematica/issues)
+[![GitHub forks](https://img.shields.io/github/forks/GustavoAdolfo/matematica)](https://github.com/GustavoAdolfo/matematica/network)
+[![GitHub stars](https://img.shields.io/github/stars/GustavoAdolfo/matematica)](https://github.com/GustavoAdolfo/matematica/stargazers)
+[![GitHub license](https://img.shields.io/github/license/GustavoAdolfo/matematica)](https://github.com/GustavoAdolfo/matematica/blob/develop/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGu57av0Ad01f0)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FGustavoAdolfo%2Fmatematica)
